@@ -21,9 +21,9 @@ class script(object):
     SOURCE_TXT = """<b>NOTE:</b>
 - This is a  <a href=https://github.com/EvamariaTG/EvaMaria>LIKE YOU</a> clone Project
 - All Creditz ❣️ <a href=https://t.me/Saheer_gamer>SAHEER</a> ❣️ UYIR 🔥🔥
-- original source code - <a href=https://github.com/testgithubitok/PROFESSOR-BOT>SAHEER-𝐁𝐎𝐓</a> 
+- original source code - <a href=https://t.me/status_link_1>SAHEER-𝐁𝐎𝐓</a> 
 
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://github.com/testgithubitok/PROFESSOR-BOT>SAHEER-𝐁𝐎𝐓</a>
+- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/status_link_1>SAHEER-𝐁𝐎𝐓</a>
 
 <b>DEVS:</b>
 - 𝙳𝚎𝚟 1<a href=https://t.me/Saheer_gamer>SAHEER S</a>
